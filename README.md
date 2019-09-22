@@ -13,3 +13,7 @@ Links
 * More regex https://zapier.com/blog/extract-links-email-phone-regex/#zapier
 * http://emailregex.com/
 * All about e-mail address https://www.regular-expressions.info/email.html
+* https://gist.github.com/gruber/249502
+* https://gist.github.com/gruber/8891611
+* https://mathiasbynens.be/demo/url-regex
+* https://gist.github.com/dperini/729294

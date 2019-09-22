@@ -12,3 +12,4 @@ Links
 * Some regex example https://stackoverflow.com/questions/55281970/enumerate-emails-in-inbox-and-click-all-the-links-within-the-email
 * More regex https://zapier.com/blog/extract-links-email-phone-regex/#zapier
 * http://emailregex.com/
+* All about e-mail address https://www.regular-expressions.info/email.html

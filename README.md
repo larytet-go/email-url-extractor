@@ -20,3 +20,8 @@ Links
 * https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354baa
 * https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada
 * https://pypi.org/project/mail-parser/
+* https://datascience.stackexchange.com/questions/44697/word-classification-not-text-classification-using-nlp
+* https://www.nltk.org/book/ch06.html
+* https://www.searchtechnologies.com/blog/natural-language-processing-techniques
+* https://monkeylearn.com/text-classification/
+* 

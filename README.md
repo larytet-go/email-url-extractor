@@ -17,3 +17,6 @@ Links
 * https://gist.github.com/gruber/8891611
 * https://mathiasbynens.be/demo/url-regex
 * https://gist.github.com/dperini/729294
+* https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354baa
+* https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada
+* https://pypi.org/project/mail-parser/
